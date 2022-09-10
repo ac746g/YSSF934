@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Yaron
+### Hello Everyone! 👋 I'm Yaron
 
 
 ### ✨ About Me ✨ 
