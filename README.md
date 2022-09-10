@@ -4,7 +4,7 @@
 ### ✨ About Me ✨ 
 
 
-- 🔭 I have been curious about and enjoyed working with data since I was in highschool
+- 🔭 I have enjoyed working with data since I was in highschool
 - 🌱 I have a background in Economics
 - 👯 I completed Udacity's Data Analyst Nanodegree in 2021 
 - 🤔 I am currently working for Thinkful as a Data Analyst Mentor 
